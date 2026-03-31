@@ -1,2 +1,2 @@
 # parash1
-mani123
+mani1
